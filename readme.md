@@ -1,4 +1,4 @@
-# class-postfix [![Build Status](https://secure.travis-ci.org/johnotander/class-postfix.png?branch=master)](https://travis-ci.org/johnotander/class-postfix) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# class-postfix [![Build Status](https://secure.travis-ci.org/johnotander/class-postfix.svg?branch=master)](https://travis-ci.org/johnotander/class-postfix) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Postfix class selectors in a string.
 
