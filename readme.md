@@ -13,7 +13,7 @@ npm install --save class-postfix
 ```javascript
 const classPostfix = require('class-postfix')
 
-classRepeat('.foo #baz', '-bar') // => '.foo-bar #baz'
+classPostfix('.foo #baz', '-bar') // => '.foo-bar #baz'
 ```
 
 ## License
